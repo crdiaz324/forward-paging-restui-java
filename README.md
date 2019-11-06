@@ -2,7 +2,7 @@
 A short few sentences describing what is the purpose of the example and what the user will learn
 
 e.g.
-This application shows how to use configure your NodeJs application to connect to DDAC/Cassandra/DSE or an Apollo database at runtime.
+This application shows how to use configure your NodeJs application to connect to DDAC/Cassandra/DSE or an Apollo database at runtime
 
 Contributors: A listing of contributors to this repository linked to their github profile
 
